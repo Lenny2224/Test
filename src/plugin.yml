@@ -1,0 +1,10 @@
+name: Test
+version: 1.4.1
+author: Lenny
+main: xyz.itsylands.test.Main
+api-version: 1.8.8
+commands:
+  forum:
+    description: Gives a player the link to the forum
+    usage: /<command>
+    aliases: [forums, website]
